@@ -9,13 +9,7 @@ CUNY capstone project — final demo May 15, 2026.
 
 ## Concept Video
 
-<<<<<<< HEAD
-=======
-
 https://github.com/user-attachments/assets/440e7e80-45d7-4843-9f48-9c3af1fc03a7
-
-
->>>>>>> 6dbd7ee6934a660d9cba94010f155faa45a38e40
 
 ---
 
