@@ -7,6 +7,19 @@ sponsored content — putting the user's interests ahead of advertiser dollars.
 
 CUNY capstone project — final demo May 15, 2026.
 
+## Concept Video
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="./ConsensusFilterScene.mp4">
+        <strong>▶ Watch the Consensus Filter Demo</strong><br />
+        <sub>Open the full walkthrough video of the ranking and consensus UI</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Contributing
