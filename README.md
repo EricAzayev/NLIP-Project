@@ -13,6 +13,13 @@ https://github.com/user-attachments/assets/440e7e80-45d7-4843-9f48-9c3af1fc03a7
 
 ---
 
+## NLIP Search Results
+<img width="1005" height="545" alt="NLIP_Results" src="https://github.com/user-attachments/assets/76bf6dad-1223-48df-a52a-70071937ed3f" />
+
+
+
+---
+
 ## Contributing
 
 All changes go through pull requests — no direct commits to `main`, including from project owners.
